@@ -7,14 +7,44 @@
     "light": "#3B9CD9",
     "dark": "#0B6BB3"
   },
+  "favicon": "/favicon.svg",
   "navigation": {
     "groups": [
       {
-        "group": "Home",
+        "group": "Core Services",
         "pages": [
-          "index"
+          "bbb-accredited-plumbing-service"
+        ]
+      },
+      {
+        "group": "Drains & Sewer",
+        "pages": [
+          "sewer-line-emergency-repair",
+          "grease-traps",
+          "clogged-drain-emergency"
+        ]
+      },
+      {
+        "group": "Pipes & Leaks",
+        "pages": [
+          "burst-pipe-emergency"
+        ]
+      },
+      {
+        "group": "Gas, Backflow & Sump",
+        "pages": [
+          "backflow-prevention-standards"
+        ]
+      },
+      {
+        "group": "More Topics",
+        "pages": [
+          "plumbing-emergency-response"
         ]
       }
     ]
+  },
+  "footer": {
+    "socials": {}
   }
 }
