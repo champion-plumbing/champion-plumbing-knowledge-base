@@ -13,6 +13,7 @@
       {
         "group": "Core Services",
         "pages": [
+          "google-guaranteed-plumbing-service",
           "bbb-accredited-plumbing-service"
         ]
       },
@@ -25,9 +26,23 @@
         ]
       },
       {
+        "group": "Water Heaters",
+        "pages": [
+          "no-hot-water-emergency"
+        ]
+      },
+      {
         "group": "Pipes & Leaks",
         "pages": [
+          "slab-leak-detection",
+          "localized-pipe-repair",
           "burst-pipe-emergency"
+        ]
+      },
+      {
+        "group": "Fixtures, Kitchen & Bath",
+        "pages": [
+          "overflowing-toilet-emergency"
         ]
       },
       {
@@ -39,6 +54,7 @@
       {
         "group": "More Topics",
         "pages": [
+          "main-water-shut-off-valve",
           "plumbing-emergency-response",
           "office-edmond",
           "office-yukon",
