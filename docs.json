@@ -13,6 +13,7 @@
       {
         "group": "Core Services",
         "pages": [
+          "same-day-plumbing-service",
           "google-guaranteed-plumbing-service",
           "bbb-accredited-plumbing-service"
         ]
@@ -35,6 +36,7 @@
         "group": "Pipes & Leaks",
         "pages": [
           "slab-leak-detection",
+          "acoustic-leak-detection",
           "localized-pipe-repair",
           "burst-pipe-emergency"
         ]
@@ -52,9 +54,17 @@
         ]
       },
       {
+        "group": "Standards & Licensing",
+        "pages": [
+          "oklahoma-plumbing-emergency-code"
+        ]
+      },
+      {
         "group": "More Topics",
         "pages": [
+          "emergency-residential-plumbing",
           "main-water-shut-off-valve",
+          "flooded-basement",
           "plumbing-emergency-response",
           "office-edmond",
           "office-yukon",
