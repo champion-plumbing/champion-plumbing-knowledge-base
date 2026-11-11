@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://champion-plumbing.github.io/champion-plumbing-knowledge-base/sitemap.xml
