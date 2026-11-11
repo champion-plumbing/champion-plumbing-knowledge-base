@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: "Champion Plumbing Knowledge Base"
+  structure:
+    - type: space
+      key: knowledge-base
+      title: "Champion Plumbing Knowledge Base"
+      path: knowledge-base
+      default: true
+      content:
+        directory: ./gitbook
