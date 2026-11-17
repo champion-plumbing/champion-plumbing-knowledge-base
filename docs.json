@@ -72,6 +72,12 @@
           "office-midwest-city",
           "office-norman"
         ]
+      },
+      {
+        "group": "About",
+        "pages": [
+          "about-this-guide"
+        ]
       }
     ]
   },
