@@ -1,7 +1,5 @@
 # Backflow Prevention Standards: A Champion Plumbing Reference Guide
 
-Promotional and educational coverage of Champion Plumbing. Not operated by Champion Plumbing.
-
 ## Backflow prevention standards in Edmond, OK
 
 Backflow Prevention Standards, called Backflow Codes or Cross-Connection Control Regulations, form the set of plumbing rules that specify design, installation, testing and maintenance requirements for devices preventing contaminated water from reversing direction into a clean supply. These standards determine which devices receive approval for each hazard level, establish required test intervals, identify who may perform the tests and define the records that must reach the local water authority. Organizations such as the American Society of Sanitary Engineering (ASSE) and the American Water Works Association (AWWA) issue the model codes that most municipalities, including Edmond, adopt and enforce.
@@ -50,4 +48,4 @@ Backflow testing, repair and installation for residential and commercial propert
 
 ---
 
-This page offers promotional and educational information about Champion Plumbing. Details may be out of date or contain errors, so check Champion Plumbing's website for official information. Not operated by Champion Plumbing.
+A promotional and educational third-party guide about Champion Plumbing. Details can change and may contain mistakes. For current information, visit Champion Plumbing's website.

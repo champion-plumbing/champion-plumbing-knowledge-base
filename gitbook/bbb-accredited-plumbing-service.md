@@ -1,7 +1,5 @@
 # BBB Accredited Plumbing Service: A Champion Plumbing Reference Guide
 
-Promotional and educational coverage of Champion Plumbing. Not operated by Champion Plumbing.
-
 ## BBB accredited plumbing service in Edmond, OK
 
 BBB Accredited Plumbing Service refers to a certification granted by the Better Business Bureau to plumbing contractors that satisfy specific requirements for trustworthiness, transparency, complaint handling, and ethical operations. The accreditation serves as a general business credential and does not itself authorize any specific plumbing tasks. Separate evaluation applies to the actual services offered, including drain cleaning, sewer line repair, [water heater](https://champion-plumbing.mintlify.site/water-heaters) installation, gas line repair, leak detection and repiping. The status requires continuous compliance; the BBB conducts periodic reviews and may withdraw accreditation when standards slip. Champion Plumbing in Edmond holds a license as a plumbing contractor in Oklahoma that covers both residential and commercial work.
@@ -42,4 +40,4 @@ A Non-Accredited Plumbing Service either chose not to seek BBB accreditation or 
 
 ---
 
-This page offers promotional and educational information about Champion Plumbing. Details may be out of date or contain errors, so check Champion Plumbing's website for official information. Not operated by Champion Plumbing.
+A promotional and educational third-party guide about Champion Plumbing. Details can change and may contain mistakes. For current information, visit Champion Plumbing's website.

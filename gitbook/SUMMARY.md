@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [About this guide](about-this-guide.md)
 
 ## Core Services
 
@@ -10,6 +11,7 @@
 ## Drains & Sewer
 
 * [Sewer Line Emergency Repair](sewer-line-emergency-repair.md)
+* [Clogged Drain Emergency](clogged-drain-emergency.md)
 
 ## Water Heaters
 
@@ -18,6 +20,7 @@
 ## Pipes & Leaks
 
 * [Localized Pipe Repair](localized-pipe-repair.md)
+* [Burst Pipe Emergency](burst-pipe-emergency.md)
 
 ## Fixtures, Kitchen & Bath
 
@@ -30,5 +33,7 @@
 ## More Topics
 
 * [Main Water Shut-off Valve](main-water-shut-off-valve.md)
+* [Flooded Basement](flooded-basement.md)
 * [Champion Plumbing office in Midwest City, OK](office-midwest-city.md)
 * [Champion Plumbing office in Norman, OK](office-norman.md)
+* [Champion Plumbing office in Yukon, OK](office-yukon.md)

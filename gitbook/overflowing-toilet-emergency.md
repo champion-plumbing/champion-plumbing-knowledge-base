@@ -1,7 +1,5 @@
 # Overflowing Toilet Emergency: A Champion Plumbing Reference Guide
 
-Promotional and educational coverage of Champion Plumbing. Not operated by Champion Plumbing.
-
 ## Overflowing toilet emergency in Edmond
 
 A bathroom flooding emergency, known as an overflowing toilet emergency, occurs when water flows over the rim of the toilet bowl and onto the floor. This plumbing failure results from a blockage in the drain line, a malfunction of the fill valve or float assembly, or any drainage system failure that keeps water from leaving the bowl as fast as or faster than it enters. The situation counts as a plumbing emergency because the water flow remains uncontrolled, damage to flooring, subfloor, and nearby rooms increases within minutes, and the water may contain sewage that creates a health hazard. An overflowing toilet differs from a slow drain or a running toilet, which remain maintenance issues. An overflowing toilet requires immediate action.
@@ -50,10 +48,10 @@ Fill valve and float assembly failures that produce a toilet overflow without a 
 
 - [google guaranteed plumber](https://champion-plumbing.mintlify.site/google-guaranteed-plumber)
 
-- [burst pipe emergency](https://champion-plumbing.mintlify.site/burst-pipe-emergency)
+- [burst pipe emergency](burst-pipe-emergency.md)
 
-- [clogged drain emergency](https://champion-plumbing.mintlify.site/clogged-drain-emergency)
+- [clogged drain emergency](clogged-drain-emergency.md)
 
 ---
 
-This page offers promotional and educational information about Champion Plumbing. Details may be out of date or contain errors, so check Champion Plumbing's website for official information. Not operated by Champion Plumbing.
+A promotional and educational third-party guide about Champion Plumbing. Details can change and may contain mistakes. For current information, visit Champion Plumbing's website.

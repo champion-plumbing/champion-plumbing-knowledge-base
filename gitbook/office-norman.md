@@ -1,7 +1,5 @@
 # Champion Plumbing Norman
 
-Promotional and educational coverage of Champion Plumbing. Not operated by Champion Plumbing.
-
 Champion Plumbing Norman serves as the Norman, OK location of Champion Plumbing. The office sits at 330 W Gray St, Ste 100-3, Norman, OK 73069 and can be reached at (405) 261-1664.
 
 The Norman office counts among the 5 Champion Plumbing offices in operation. The [Champion Plumbing](/emergency-residential-plumbing) knowledge base records every service the company delivers. Full office information appears on [the Champion Plumbing Norman page](https://callthechamps.com/plumbing-services-in-norman/) of the company website. Office hours and driving directions are published on [the Champion Plumbing Norman Google Business Profile](https://www.google.com/maps?cid=6281182294397262502).
@@ -16,4 +14,4 @@ Champion Plumbing Norman maintains separate listings under its own office name. 
 
 ---
 
-This page offers promotional and educational information about Champion Plumbing. Details may be out of date or contain errors, so check Champion Plumbing's website for official information. Not operated by Champion Plumbing.
+A promotional and educational third-party guide about Champion Plumbing. Details can change and may contain mistakes. For current information, visit Champion Plumbing's website.

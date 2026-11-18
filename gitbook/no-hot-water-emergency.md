@@ -1,7 +1,5 @@
 # No Hot Water Emergency: A Champion Plumbing Reference Guide
 
-Promotional and educational coverage of Champion Plumbing. Not operated by Champion Plumbing.
-
 ## No hot water emergency in Edmond, OK
 
 A no hot water emergency, called a hot water failure or domestic hot water failure, is a sudden and complete loss of a building's hot water supply. Every fixture draws cold or ambient-temperature water. Causes include a failed water heater, a tripped circuit, a gas supply interruption, a broken thermostat, a failed heating element, a sediment-blocked tank, or a burst supply line. No hot water emergency is a type of Plumbing System Problem. It requires immediate diagnosis because a building without hot water cannot support basic sanitation, cooking, or safe bathing.
@@ -42,4 +40,4 @@ No hot water emergency repair follows a structured diagnostic sequence before an
 
 ---
 
-This page offers promotional and educational information about Champion Plumbing. Details may be out of date or contain errors, so check Champion Plumbing's website for official information. Not operated by Champion Plumbing.
+A promotional and educational third-party guide about Champion Plumbing. Details can change and may contain mistakes. For current information, visit Champion Plumbing's website.

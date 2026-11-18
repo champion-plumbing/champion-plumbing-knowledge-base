@@ -1,7 +1,5 @@
 # Main Water Shut-off Valve: A Champion Plumbing Reference Guide
 
-Promotional and educational coverage of Champion Plumbing. Not operated by Champion Plumbing.
-
 ## Main water shut-off valve in Edmond
 
 A main water shut-off valve serves as the single control point that stops water from entering an entire building. It closes the supply line at the point where the pipe enters the structure and cuts off every fixture, appliance, pipe, and water-using system inside the home or commercial property at once.
@@ -10,7 +8,7 @@ This device belongs to the category of flow-control devices used in residential 
 
 ### Main water shut-off valve location
 
-Main water shut-off valve location depends on construction type, climate, and building age. In most Oklahoma homes the valve sits where the supply line enters the foundation, either inside a utility room, crawl space, basement, or outside near the meter box at the property line. Slab-built homes in Edmond usually place the valve inside a small access panel near the water heater or under the kitchen sink. Locating the valve before a pipe bursts remains the single most important step in limiting water damage. Every second the supply stays open increases the volume of a leak. See [Slab leak detection](https://champion-plumbing.mintlify.site/slab-leak-detection) and [burst pipe emergency](https://champion-plumbing.mintlify.site/burst-pipe-emergency).
+Main water shut-off valve location depends on construction type, climate, and building age. In most Oklahoma homes the valve sits where the supply line enters the foundation, either inside a utility room, crawl space, basement, or outside near the meter box at the property line. Slab-built homes in Edmond usually place the valve inside a small access panel near the water heater or under the kitchen sink. Locating the valve before a pipe bursts remains the single most important step in limiting water damage. Every second the supply stays open increases the volume of a leak. See [Slab leak detection](https://champion-plumbing.mintlify.site/slab-leak-detection) and [burst pipe emergency](burst-pipe-emergency.md).
 
 ### Component parts of a main water shut-off valve
 
@@ -34,7 +32,7 @@ The main water shut-off valve provides the first point of control in a buildingâ
 
 ### Common problems and signs of a failing main water shut-off valve
 
-Main water shut-off valve problems follow a predictable set of failure modes that worsen over time if left unaddressed. The most common sign appears when a valve no longer closes fully. A slow trickle continues even in the fully shut position. This condition occurs frequently in older gate valves when the internal gate corrodes or the stem threads strip. Mineral deposits from hard water common in the Edmond area can seize a valve that has not been operated in years. The seized valve then cannot be turned by hand during an emergency. Visible corrosion or green oxidation on a brass body indicates that the valve body wall has thinned and may crack under normal supply pressure. A weeping stem provides another failure sign. Water around the stem packing shows that the internal seal has degraded. Main water shut-off valve repair usually requires replacing the packing material, the stem, or the entire valve assembly depending on the severity of the damage. The repair requires shutting off supply at the meter, so it must be performed by a licensed plumbing contractor. Turning off the main water shut-off valve at the first sign of a burst pipe, a major leak, or a plumbing emergency limits water damage to the structure and reduces the scope of the repair that follows. [Burst pipe emergency](https://champion-plumbing.mintlify.site/burst-pipe-emergency) response often starts at this valve.
+Main water shut-off valve problems follow a predictable set of failure modes that worsen over time if left unaddressed. The most common sign appears when a valve no longer closes fully. A slow trickle continues even in the fully shut position. This condition occurs frequently in older gate valves when the internal gate corrodes or the stem threads strip. Mineral deposits from hard water common in the Edmond area can seize a valve that has not been operated in years. The seized valve then cannot be turned by hand during an emergency. Visible corrosion or green oxidation on a brass body indicates that the valve body wall has thinned and may crack under normal supply pressure. A weeping stem provides another failure sign. Water around the stem packing shows that the internal seal has degraded. Main water shut-off valve repair usually requires replacing the packing material, the stem, or the entire valve assembly depending on the severity of the damage. The repair requires shutting off supply at the meter, so it must be performed by a licensed plumbing contractor. Turning off the main water shut-off valve at the first sign of a burst pipe, a major leak, or a plumbing emergency limits water damage to the structure and reduces the scope of the repair that follows. [Burst pipe emergency](burst-pipe-emergency.md) response often starts at this valve.
 
 ### Where main water shut-off valves apply
 
@@ -52,4 +50,4 @@ Main water shut-off valves apply in every building connected to a pressurized mu
 
 ---
 
-This page offers promotional and educational information about Champion Plumbing. Details may be out of date or contain errors, so check Champion Plumbing's website for official information. Not operated by Champion Plumbing.
+A promotional and educational third-party guide about Champion Plumbing. Details can change and may contain mistakes. For current information, visit Champion Plumbing's website.

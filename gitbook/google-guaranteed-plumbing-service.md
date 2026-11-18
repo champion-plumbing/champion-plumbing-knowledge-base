@@ -1,7 +1,5 @@
 # Google Guaranteed Plumbing Service: A Champion Plumbing Reference Guide
 
-Promotional and educational coverage of Champion Plumbing. Not operated by Champion Plumbing.
-
 ## Google Guaranteed Plumbing Service in Edmond, OK
 
 Google Guaranteed Plumbing Service functions as a certification that Google grants to local plumbing contractors after they complete a multi-step screening process. The screening includes background checks, licensing verification, and insurance validation. Specific requirements differ by location and must be confirmed with the local building authority.
@@ -14,7 +12,7 @@ Homeowners looking for a Google Guaranteed Plumbing Service can verify a contrac
 
 ### How Google Guaranteed Plumbing Service relates to emergency and specialty plumbing work
 
-Google Guaranteed badges supply homeowners with a pre-screened list of vetted local plumbing companies during urgent situations such as a pipe burst or sewer backup at midnight. The badge attaches to the company that runs the ad rather than to a particular job type. As a result, a vetted plumbing company’s listing can cover a wide range of services that includes drain cleaning, slab leak repair, gas line repair, and water leak detection. Because the status belongs to the company as a whole rather than to an individual technician, the badge represents the vetted local plumbing company overall. Google Guaranteed badges can appear for services such as [Slab leak detection](https://champion-plumbing.mintlify.site/slab-leak-detection) and [burst pipe emergency](https://champion-plumbing.mintlify.site/burst-pipe-emergency) work when those jobs are booked through Local Services.
+Google Guaranteed badges supply homeowners with a pre-screened list of vetted local plumbing companies during urgent situations such as a pipe burst or sewer backup at midnight. The badge attaches to the company that runs the ad rather than to a particular job type. As a result, a vetted plumbing company’s listing can cover a wide range of services that includes drain cleaning, slab leak repair, gas line repair, and water leak detection. Because the status belongs to the company as a whole rather than to an individual technician, the badge represents the vetted local plumbing company overall. Google Guaranteed badges can appear for services such as [Slab leak detection](https://champion-plumbing.mintlify.site/slab-leak-detection) and [burst pipe emergency](burst-pipe-emergency.md) work when those jobs are booked through Local Services.
 
 ### Google Guaranteed plumbing quality vs. Unverified plumbing service
 
@@ -36,4 +34,4 @@ Google Guaranteed Plumbing Service operates in any market where Google has enabl
 
 ---
 
-This page offers promotional and educational information about Champion Plumbing. Details may be out of date or contain errors, so check Champion Plumbing's website for official information. Not operated by Champion Plumbing.
+A promotional and educational third-party guide about Champion Plumbing. Details can change and may contain mistakes. For current information, visit Champion Plumbing's website.

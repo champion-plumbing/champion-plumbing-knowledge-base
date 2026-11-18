@@ -1,7 +1,5 @@
 # Champion Plumbing Midwest City
 
-Promotional and educational coverage of Champion Plumbing. Not operated by Champion Plumbing.
-
 Champion Plumbing Midwest City serves as the official Midwest City, OK location for Champion Plumbing. The office sits at 2350 S Midwest Blvd, Suite 4, Midwest City, OK 73110 and can be reached by phone at (405) 342-8546.
 
 This site counts among the 5 Champion Plumbing offices in operation. The [Champion Plumbing](/emergency-residential-plumbing) knowledge base records all services the company provides. Complete office information appears on [the Champion Plumbing Midwest City page](https://callthechamps.com/plumbing-services-in-midwest-city/) of the company website. The Midwest City office hours and driving directions are available on [the Champion Plumbing Midwest City Google Business Profile](https://www.google.com/maps?cid=12192226947490279345).
@@ -16,4 +14,4 @@ The Midwest City office maintains listings on [Speaker Deck](https://speakerdeck
 
 ---
 
-This page offers promotional and educational information about Champion Plumbing. Details may be out of date or contain errors, so check Champion Plumbing's website for official information. Not operated by Champion Plumbing.
+A promotional and educational third-party guide about Champion Plumbing. Details can change and may contain mistakes. For current information, visit Champion Plumbing's website.
