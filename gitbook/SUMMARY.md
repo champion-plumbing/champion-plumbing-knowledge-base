@@ -5,6 +5,7 @@
 
 ## Core Services
 
+* [Same Day Plumbing Service](same-day-plumbing-service.md)
 * [Google Guaranteed Plumbing Service](google-guaranteed-plumbing-service.md)
 * [BBB Accredited Plumbing Service](bbb-accredited-plumbing-service.md)
 
@@ -19,6 +20,8 @@
 
 ## Pipes & Leaks
 
+* [Slab Leak Detection](slab-leak-detection.md)
+* [Acoustic Leak Detection](acoustic-leak-detection.md)
 * [Localized Pipe Repair](localized-pipe-repair.md)
 * [Burst Pipe Emergency](burst-pipe-emergency.md)
 
@@ -32,6 +35,7 @@
 
 ## More Topics
 
+* [Emergency Residential Plumbing](emergency-residential-plumbing.md)
 * [Main Water Shut-off Valve](main-water-shut-off-valve.md)
 * [Flooded Basement](flooded-basement.md)
 * [Champion Plumbing office in Midwest City, OK](office-midwest-city.md)

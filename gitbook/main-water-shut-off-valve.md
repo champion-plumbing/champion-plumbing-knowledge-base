@@ -8,7 +8,7 @@ This device belongs to the category of flow-control devices used in residential 
 
 ### Main water shut-off valve location
 
-Main water shut-off valve location depends on construction type, climate, and building age. In most Oklahoma homes the valve sits where the supply line enters the foundation, either inside a utility room, crawl space, basement, or outside near the meter box at the property line. Slab-built homes in Edmond usually place the valve inside a small access panel near the water heater or under the kitchen sink. Locating the valve before a pipe bursts remains the single most important step in limiting water damage. Every second the supply stays open increases the volume of a leak. See [Slab leak detection](https://champion-plumbing.mintlify.site/slab-leak-detection) and [burst pipe emergency](burst-pipe-emergency.md).
+Main water shut-off valve location depends on construction type, climate, and building age. In most Oklahoma homes the valve sits where the supply line enters the foundation, either inside a utility room, crawl space, basement, or outside near the meter box at the property line. Slab-built homes in Edmond usually place the valve inside a small access panel near the water heater or under the kitchen sink. Locating the valve before a pipe bursts remains the single most important step in limiting water damage. Every second the supply stays open increases the volume of a leak. See [Slab leak detection](slab-leak-detection.md) and [burst pipe emergency](burst-pipe-emergency.md).
 
 ### Component parts of a main water shut-off valve
 

@@ -12,7 +12,7 @@ Homeowners looking for a Google Guaranteed Plumbing Service can verify a contrac
 
 ### How Google Guaranteed Plumbing Service relates to emergency and specialty plumbing work
 
-Google Guaranteed badges supply homeowners with a pre-screened list of vetted local plumbing companies during urgent situations such as a pipe burst or sewer backup at midnight. The badge attaches to the company that runs the ad rather than to a particular job type. As a result, a vetted plumbing company’s listing can cover a wide range of services that includes drain cleaning, slab leak repair, gas line repair, and water leak detection. Because the status belongs to the company as a whole rather than to an individual technician, the badge represents the vetted local plumbing company overall. Google Guaranteed badges can appear for services such as [Slab leak detection](https://champion-plumbing.mintlify.site/slab-leak-detection) and [burst pipe emergency](burst-pipe-emergency.md) work when those jobs are booked through Local Services.
+Google Guaranteed badges supply homeowners with a pre-screened list of vetted local plumbing companies during urgent situations such as a pipe burst or sewer backup at midnight. The badge attaches to the company that runs the ad rather than to a particular job type. As a result, a vetted plumbing company’s listing can cover a wide range of services that includes drain cleaning, slab leak repair, gas line repair, and water leak detection. Because the status belongs to the company as a whole rather than to an individual technician, the badge represents the vetted local plumbing company overall. Google Guaranteed badges can appear for services such as [Slab leak detection](slab-leak-detection.md) and [burst pipe emergency](burst-pipe-emergency.md) work when those jobs are booked through Local Services.
 
 ### Google Guaranteed plumbing quality vs. Unverified plumbing service
 
@@ -20,7 +20,7 @@ Google Guaranteed plumbing quality differs from unverified or uncertified servic
 
 ### Where Google Guaranteed Plumbing Service applies in Edmond
 
-Google Guaranteed Plumbing Service operates in any market where Google has enabled Local Services Ads for the plumbing category. Coverage applies to jobs booked through the Local Services platform. Service categories that may fall under coverage include drain cleaning, sewer line repair, water filtration systems, sump pump services, repiping, and gas leak detection, depending on the market and plumbing category. Work arranged outside the Local Services platform—by phone, referral, or direct website visit—generally falls outside Google guarantee protection even if the contractor displays the badge. See [Emergency residential plumbing](https://champion-plumbing.mintlify.site/emergency-residential-plumbing).
+Google Guaranteed Plumbing Service operates in any market where Google has enabled Local Services Ads for the plumbing category. Coverage applies to jobs booked through the Local Services platform. Service categories that may fall under coverage include drain cleaning, sewer line repair, water filtration systems, sump pump services, repiping, and gas leak detection, depending on the market and plumbing category. Work arranged outside the Local Services platform—by phone, referral, or direct website visit—generally falls outside Google guarantee protection even if the contractor displays the badge. See [Emergency residential plumbing](emergency-residential-plumbing.md).
 
 ### Related entities
 

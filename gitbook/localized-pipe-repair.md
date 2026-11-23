@@ -8,7 +8,7 @@ Localized pipe repair, called a targeted pipe fix, corrects damage inside one sp
 
 Localized pipe repair includes the pipe section itself together with the repair material placed on it. These two elements establish the full scope of every job. The pipe section consists of the exact length of line that contains the defect, normally expressed in linear feet, while the repair material comprises the chosen method that closes the breach: a mechanical coupling, a soldered splice, a push-fit fitting, or an epoxy liner bonded to the interior wall. Sectional pipe repair limits the work area, which reduces demolition, shortens labor time and decreases disruption for the building occupants. The repair area on a standard residential job extends from a few inches to roughly 10 linear feet; any distance greater than that generally moves the discussion toward a full segment replacement or a whole-line relining approach.
 
-Localized pipe repair occurs inside [emergency residential plumbing](https://champion-plumbing.mintlify.site/emergency-residential-plumbing) when a burst, pinhole or joint failure remains isolated and the pipe on either side stays in acceptable condition.
+Localized pipe repair occurs inside [emergency residential plumbing](emergency-residential-plumbing.md) when a burst, pinhole or joint failure remains isolated and the pipe on either side stays in acceptable condition.
 
 ### Measurable attributes: duration, pipe diameter and repair area
 
@@ -32,7 +32,7 @@ Frozen pipe damage regularly creates a single split at the location of maximum i
 
 Localized pipe repair applies inside residential homes, multi-family buildings, and commercial properties at any point where a single pipe section fails while the surrounding system continues to function. Locations differ. In residential settings, the most frequent sites appear under kitchen and bathroom sinks, inside walls behind fixtures, in crawl spaces, and under slabs. In commercial buildings, the principle remains identical for restroom supply lines, kitchen drain runs, and utility corridors, although pipe diameters increase and access conditions change.
 
-Downtime creates expense. Quick localized pipe repair therefore holds particular value in commercial settings. A restaurant with a failed drain line under the prep sink, a medical office with a leaking supply line in the ceiling, or a retail building with a slab leak under the sales floor each gain from a repair that addresses only the defect and keeps the remainder of the system operational. The alternative of a full pipe replacement or system overhaul demands closure of the space for days instead of hours. Property owners frequently begin with [slab leak detection](https://champion-plumbing.mintlify.site/slab-leak-detection) so the precise leak location receives confirmation prior to repair work.
+Downtime creates expense. Quick localized pipe repair therefore holds particular value in commercial settings. A restaurant with a failed drain line under the prep sink, a medical office with a leaking supply line in the ceiling, or a retail building with a slab leak under the sales floor each gain from a repair that addresses only the defect and keeps the remainder of the system operational. The alternative of a full pipe replacement or system overhaul demands closure of the space for days instead of hours. Property owners frequently begin with [slab leak detection](slab-leak-detection.md) so the precise leak location receives confirmation prior to repair work.
 
 ### Related entities
 
