@@ -12,6 +12,7 @@
 ## Drains & Sewer
 
 * [Sewer Line Emergency Repair](sewer-line-emergency-repair.md)
+* [Grease Traps](grease-traps.md)
 * [Clogged Drain Emergency](clogged-drain-emergency.md)
 
 ## Water Heaters
@@ -33,11 +34,16 @@
 
 * [Backflow Prevention Standards](backflow-prevention-standards.md)
 
+## Standards & Licensing
+
+* [Oklahoma Plumbing Emergency Code](oklahoma-plumbing-emergency-code.md)
+
 ## More Topics
 
 * [Emergency Residential Plumbing](emergency-residential-plumbing.md)
 * [Main Water Shut-off Valve](main-water-shut-off-valve.md)
 * [Flooded Basement](flooded-basement.md)
+* [Plumbing Emergency Response](plumbing-emergency-response.md)
 * [Champion Plumbing office in Midwest City, OK](office-midwest-city.md)
 * [Champion Plumbing office in Norman, OK](office-norman.md)
 * [Champion Plumbing office in Yukon, OK](office-yukon.md)

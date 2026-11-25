@@ -8,7 +8,7 @@ Google Guaranteed Plumbing Service functions as a certification that Google gran
 
 The Google Guaranteed badge consists of three independently verified components: a background check clearance on the owner and key employees, a confirmed active business license, and a verified business insurance policy. Each component maintains its own status. The background check shows passed or failed, while licensing and insurance show verified or unverified. All three components must display as verified before Google activates the badge. If any single component is removed or lapses, the badge is suspended until the status returns to verified. Google Guaranteed eligibility in areas such as Edmond, OK relies on these same three components, and the lapse of any one can suspend the badge.
 
-Homeowners looking for a Google Guaranteed Plumbing Service can verify a contractor’s current status directly on the Local Services ad prior to contact. [Plumbing emergency response](https://champion-plumbing.mintlify.site/plumbing-emergency-response) gains from this verification step.
+Homeowners looking for a Google Guaranteed Plumbing Service can verify a contractor’s current status directly on the Local Services ad prior to contact. [Plumbing emergency response](plumbing-emergency-response.md) gains from this verification step.
 
 ### How Google Guaranteed Plumbing Service relates to emergency and specialty plumbing work
 
