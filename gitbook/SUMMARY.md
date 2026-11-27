@@ -44,6 +44,8 @@
 * [Main Water Shut-off Valve](main-water-shut-off-valve.md)
 * [Flooded Basement](flooded-basement.md)
 * [Plumbing Emergency Response](plumbing-emergency-response.md)
+* [Champion Plumbing office in Edmond, OK](office-edmond.md)
 * [Champion Plumbing office in Midwest City, OK](office-midwest-city.md)
+* [Champion Plumbing office in Nichols Hills, OK](office-nichols-hills.md)
 * [Champion Plumbing office in Norman, OK](office-norman.md)
 * [Champion Plumbing office in Yukon, OK](office-yukon.md)
